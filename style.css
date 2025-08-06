@@ -1,0 +1,107 @@
+/*Font*/
+@import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+/*Font*/
+
+/*Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: none!important;
+	box-sizing: border-box;
+}
+
+body {
+	color: #1515151;
+	font-family: 'Anek Bangla', sans-serif;
+	text-decoration: none!important;
+	overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6, button {
+    font-family: 'Anek Bangla', sans-serif;
+}
+
+button {
+	cursor: pointer;
+}
+
+.container {
+    width: 1440px;
+    max-width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto;
+}
+
+.row {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 15px;
+}
+
+.row>div {
+    width: 100%;
+}
+
+.w-12 {
+	grid-column: span 12;
+}
+
+.w-11 {
+	grid-column: span 11;
+}
+
+.w-10 {
+	grid-column: span 10;
+}
+
+.w-9 {
+	grid-column: span 9;
+}
+
+.w-8 {
+	grid-column: span 8;
+}
+
+.w-7 {
+	grid-column: span 7;
+}
+
+.w-6 {
+	grid-column: span 6;
+}
+
+.w-5 {
+	grid-column: span 5;
+}
+
+.w-4 {
+	grid-column: span 4;
+}
+
+.w-3 {
+	grid-column: span 3;
+}
+
+.w-2 {
+	grid-column: span 2;
+}
+
+.w-1 {
+	grid-column: span 1;
+}
+
+body {
+    background-color: #fff;
+    padding-top: 120px;
+}
+/*Reset*/
+
+/*Navbar*/
+button.close-menu, button.open-menu {
+    display: none;
+}
+
+/*Header*/
