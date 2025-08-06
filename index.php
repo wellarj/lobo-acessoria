@@ -237,6 +237,18 @@
 							<span>NOSSO PROPÓSITO</span>
 						</h2>
 						<h3>TRANSFORMAMOS VIDAS POR MEIO DO ESPORTE, COM SUPORTE INDIVIDUAL E UMA COMUNIDADE QUE INSPIRA EVOLUÇÃO.</h3>
+
+						<div class="proposito-carrosel">
+							<a href="javascript:void(0)" class="open-video" data-url="https://youtube.com/embed/dfs87f8939">
+								<img src="images/videos/vd-1.png" alt="">
+							</a>
+							<a href="javascript:void(0)" class="open-video" data-url="https://youtube.com/embed/dfs87f8939">
+								<img src="images/videos/vd-2.png" alt="">
+							</a>
+							<a href="javascript:void(0)" class="open-video" data-url="https://youtube.com/embed/dfs87f8939">
+								<img src="images/videos/vd-3.png" alt="">
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -269,23 +281,23 @@
 
 							<div class="slick-videos-lobo">
 								<div class="ent-video video-1">
-									<a href="javascript:void(0)" data-url="https://youtube.com/embed/dfs87f8939">
-										<img src="images/video.jpg" alt="">
+									<a href="javascript:void(0)" class="open-video" data-url="https://youtube.com/embed/dfs87f8939">
+										<img src="images/videos/vd-4.png" alt="">
 									</a>
 								</div>
 								<div class="ent-video video-2">
-									<a href="javascript:void(0)" data-url="https://youtube.com/embed/dfs87f8939">
-										<img src="images/video.jpg" alt="">
+									<a href="javascript:void(0)" class="open-video" data-url="https://youtube.com/embed/dfs87f8939">
+										<img src="images/videos/vd-4.png" alt="">
 									</a>
 								</div>
 								<div class="ent-video video-3">
-									<a href="javascript:void(0)" data-url="https://youtube.com/embed/dfs87f8939">
-										<img src="images/video.jpg" alt="">
+									<a href="javascript:void(0)" class="open-video" data-url="https://youtube.com/embed/dfs87f8939">
+										<img src="images/videos/vd-4.png" alt="">
 									</a>
 								</div>
 								<div class="ent-video video-4">
-									<a href="javascript:void(0)" data-url="https://youtube.com/embed/dfs87f8939">
-										<img src="images/video.jpg" alt="">
+									<a href="javascript:void(0)" class="open-video" data-url="https://youtube.com/embed/dfs87f8939">
+										<img src="images/videos/vd-4.png" alt="">
 									</a>
 								</div>
 							</div>
@@ -517,7 +529,7 @@
 
 						<div class="provas-tab active ago">
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -528,7 +540,7 @@
 								</div>
 							</div>
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -539,7 +551,7 @@
 								</div>
 							</div>
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -552,7 +564,7 @@
 						</div>
 						<div class="provas-tab set">
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -563,7 +575,7 @@
 								</div>
 							</div>
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -574,7 +586,7 @@
 								</div>
 							</div>
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -587,7 +599,7 @@
 						</div>
 						<div class="provas-tab out">
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -598,7 +610,7 @@
 								</div>
 							</div>
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -609,7 +621,7 @@
 								</div>
 							</div>
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -622,7 +634,7 @@
 						</div>
 						<div class="provas-tab nov">
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -633,7 +645,7 @@
 								</div>
 							</div>
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -644,7 +656,7 @@
 								</div>
 							</div>
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -657,7 +669,7 @@
 						</div>
 						<div class="provas-tab dez">
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -668,7 +680,7 @@
 								</div>
 							</div>
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
@@ -679,7 +691,7 @@
 								</div>
 							</div>
 							<div class="item-date">
-								<img src="images/bandeiras/br.png" alt="">
+								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
 									<h4>01/06<span>triathlon</span></h4>
 									<div class="infos-location">
