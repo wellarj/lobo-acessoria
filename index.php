@@ -100,7 +100,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="w-12">
-						<h5>PATROCINADORES</h5>
+						<h5><br><br>PATROCINADORES</h5>
 						<div class="logos-patrocinio">
 							<img src="images/pt-1.png" alt="">
 							<img src="images/pt-2.png" alt="">
@@ -493,33 +493,59 @@
 							<div class="item-date">
 								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
-									<h4>01/08<span>triathlon</span></h4>
+									<h4>10/08<span>Triathlon</span></h4>
 									<div class="infos-location">
-										<h5>Maratona de Porto Alegre</h5>
+										<h5>Ironman 70.3 - Rio de Janeiro (T)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 5, 10, 21, 42km, desafio (21 + 42km) kids <strong>Local:</strong> Porto Alegre</p>
+										<p><strong>Distância:</strong> 70.3 <strong>Local:</strong> Rio de Janeiro</p>
 									</div>
 								</div>
 							</div>
+							
 							<div class="item-date">
 								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
-									<h4>08/08<span>Corrida</span></h4>
+									<h4>24/08<span>Corrida</span></h4>
 									<div class="infos-location">
-										<h5>Maratona do Rio de Janeiro</h5>
+										<h5>Meia Maratona de São Bernardo do Campo (C)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 5, 10, 21, 42km, desafio (21 + 42km) kids <strong>Local:</strong> Rio de Janeiro</p>
+										<p><strong>Distância:</strong> 21K, 10K, 5K <strong>Local:</strong> São Bernardo do Campo</p>
 									</div>
 								</div>
 							</div>
+
 							<div class="item-date">
 								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
-									<h4>22/08<span>Corrida</span></h4>
+									<h4>30 a 31/08<span>Corrida</span></h4>
 									<div class="infos-location">
-										<h5>Ironman Brasil - Florianópolis</h5>
+										<h5>Maratona de Floripa (C)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 140.6 milhas <strong>Local:</strong> Florianópolis</p>
+										<p><strong>Distância:</strong> 5, 21, 42km, desafio (21 + 42km) e kids <strong>Local:</strong> Florianópolis</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="item-date">
+								<img src="images/bandeiras/br.jpg" alt="">
+								<div class="content-date">
+									<h4>31/08<span>Corrida</span></h4>
+									<div class="infos-location">
+										<h5>Run The Bridge (C)</h5>
+										<hr>
+										<p><strong>Distância:</strong> 5, 10, 15 e 30km <strong>Local:</strong> São Paulo</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="item-date">
+								<img src="images/bandeiras/br.jpg" alt="">
+								<div class="content-date">
+									<h4>31/08<span>Corrida</span></h4>
+									<div class="infos-location">
+										<h5>Toureiro (C)</h5>
+										<hr>
+										<p><strong>Distância:</strong> 5, 10 e 21km <strong>Local:</strong> São Paulo</p>
 									</div>
 								</div>
 							</div>
@@ -527,35 +553,37 @@
 
 						<div class="provas-tab set">
 							<div class="item-date">
-								<img src="images/bandeiras/br.jpg" alt="">
+								<img src="images/bandeiras/de.png" alt="">
 								<div class="content-date">
-									<h4>01/09<span>triathlon</span></h4>
+									<h4>21/09<span>Corrida</span></h4>
 									<div class="infos-location">
-										<h5>Maratona de Porto Alegre</h5>
+										<h5>Maratona de Berlim (C)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 5, 10, 21, 42km, desafio (21 + 42km) kids <strong>Local:</strong> Porto Alegre</p>
+										<p><strong>Distância:</strong> 42km <strong>Local:</strong> Berlim</p>
 									</div>
 								</div>
 							</div>
+
 							<div class="item-date">
 								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
-									<h4>08/09<span>Corrida</span></h4>
+									<h4>21/09<span>Triathlon</span></h4>
 									<div class="infos-location">
-										<h5>Maratona do Rio de Janeiro</h5>
+										<h5>Ironman 70.3 - São Paulo (T)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 5, 10, 21, 42km, desafio (21 + 42km) kids <strong>Local:</strong> Rio de Janeiro</p>
+										<p><strong>Distância:</strong> 70.3 <strong>Local:</strong> São Paulo</p>
 									</div>
 								</div>
 							</div>
+
 							<div class="item-date">
 								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
-									<h4>22/09<span>Corrida</span></h4>
+									<h4>28/09<span>Ciclismo</span></h4>
 									<div class="infos-location">
-										<h5>Ironman Brasil - Florianópolis</h5>
+										<h5>L'etape Campos do Jordão (Ciclismo)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 140.6 milhas <strong>Local:</strong> Florianópolis</p>
+										<p><strong>Distância:</strong> Curto (66km) e Longo (107km) <strong>Local:</strong> Campos do Jordão</p>
 									</div>
 								</div>
 							</div>
@@ -565,33 +593,59 @@
 							<div class="item-date">
 								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
-									<h4>01/10<span>triathlon</span></h4>
+									<h4>05/10<span>Triathlon</span></h4>
 									<div class="infos-location">
-										<h5>Maratona de Porto Alegre</h5>
+										<h5>Blue Series Estrada Velha (T)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 5, 10, 21, 42km, desafio (21 + 42km) kids <strong>Local:</strong> Porto Alegre</p>
+										<p><strong>Distância:</strong> Sprint, Standard, aquathlon e Natação <strong>Local:</strong> São Bernardo do Campo</p>
 									</div>
 								</div>
 							</div>
+
 							<div class="item-date">
-								<img src="images/bandeiras/br.jpg" alt="">
+								<img src="images/bandeiras/us.png" alt="">
 								<div class="content-date">
-									<h4>08/10<span>Corrida</span></h4>
+									<h4>12/10<span>Corrida</span></h4>
 									<div class="infos-location">
-										<h5>Maratona do Rio de Janeiro</h5>
+										<h5>Maratona de Chicago (C)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 5, 10, 21, 42km, desafio (21 + 42km) kids <strong>Local:</strong> Rio de Janeiro</p>
+										<p><strong>Distância:</strong> 42km <strong>Local:</strong> Chicago</p>
 									</div>
 								</div>
 							</div>
+
 							<div class="item-date">
 								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
-									<h4>22/10<span>Corrida</span></h4>
+									<h4>19/10<span>Corrida</span></h4>
 									<div class="infos-location">
-										<h5>Ironman Brasil - Florianópolis</h5>
+										<h5>Athenas Run Longer (C)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 140.6 milhas <strong>Local:</strong> Florianópolis</p>
+										<p><strong>Distância:</strong> 7, 14, 21 e 28km <strong>Local:</strong> São Paulo</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="item-date">
+								<img src="images/bandeiras/nl.png" alt="">
+								<div class="content-date">
+									<h4>19/10<span>Corrida</span></h4>
+									<div class="infos-location">
+										<h5>Maratona de Amsterdã (C)</h5>
+										<hr>
+										<p><strong>Distância:</strong> 42km, 21km e 8km <strong>Local:</strong> Amsterdã</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="item-date">
+								<img src="images/bandeiras/br.jpg" alt="">
+								<div class="content-date">
+									<h4>26/10<span>Triathlon</span></h4>
+									<div class="infos-location">
+										<h5>Ironman 70.3 - Florianópolis (T)</h5>
+										<hr>
+										<p><strong>Distância:</strong> 70.3 <strong>Local:</strong> Florianópolis</p>
 									</div>
 								</div>
 							</div>
@@ -599,35 +653,49 @@
 
 						<div class="provas-tab nov">
 							<div class="item-date">
-								<img src="images/bandeiras/br.jpg" alt="">
+								<img src="images/bandeiras/us.png" alt="">
 								<div class="content-date">
-									<h4>01/11<span>triathlon</span></h4>
+									<h4>02/11<span>Corrida</span></h4>
 									<div class="infos-location">
-										<h5>Maratona de Porto Alegre</h5>
+										<h5>Maratona de Nova Iorque (C)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 5, 10, 21, 42km, desafio (21 + 42km) kids <strong>Local:</strong> Porto Alegre</p>
+										<p><strong>Distância:</strong> 42km <strong>Local:</strong> Nova Iorque</p>
 									</div>
 								</div>
 							</div>
+
 							<div class="item-date">
 								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
-									<h4>08/11<span>Corrida</span></h4>
+									<h4>09/11<span>Triathlon</span></h4>
 									<div class="infos-location">
-										<h5>Maratona do Rio de Janeiro</h5>
+										<h5>Triday Bertioga (T)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 5, 10, 21, 42km, desafio (21 + 42km) kids <strong>Local:</strong> Rio de Janeiro</p>
+										<p><strong>Distância:</strong> Super Sprint, Sprint e Olímpico <strong>Local:</strong> Bertioga</p>
 									</div>
 								</div>
 							</div>
+
 							<div class="item-date">
 								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
-									<h4>22/11<span>Corrida</span></h4>
+									<h4>16/11<span>Corrida</span></h4>
 									<div class="infos-location">
-										<h5>Ironman Brasil - Florianópolis</h5>
+										<h5>Meia de Sampa (C)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 140.6 milhas <strong>Local:</strong> Florianópolis</p>
+										<p><strong>Distância:</strong> 5, 15 e 21km <strong>Local:</strong> São Paulo</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="item-date">
+								<img src="images/bandeiras/br.jpg" alt="">
+								<div class="content-date">
+									<h4>30/11<span>Triathlon</span></h4>
+									<div class="infos-location">
+										<h5>Ironman 70.3 - Aracaju (T)</h5>
+										<hr>
+										<p><strong>Distância:</strong> 70.3 <strong>Local:</strong> Sergipe</p>
 									</div>
 								</div>
 							</div>
@@ -635,39 +703,42 @@
 
 						<div class="provas-tab dez">
 							<div class="item-date">
-								<img src="images/bandeiras/br.jpg" alt="">
+								<img src="images/bandeiras/es.png" alt="">
 								<div class="content-date">
-									<h4>01/12<span>triathlon</span></h4>
+									<h4>07/12<span>Corrida</span></h4>
 									<div class="infos-location">
-										<h5>Maratona de Porto Alegre</h5>
+										<h5>Maratona Valência (C)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 5, 10, 21, 42km, desafio (21 + 42km) kids <strong>Local:</strong> Porto Alegre</p>
+										<p><strong>Distância:</strong> 42km <strong>Local:</strong> Valência</p>
 									</div>
 								</div>
 							</div>
+
 							<div class="item-date">
 								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
-									<h4>08/12<span>Corrida</span></h4>
+									<h4>14/12<span>Triathlon</span></h4>
 									<div class="infos-location">
-										<h5>Maratona do Rio de Janeiro</h5>
+										<h5>Troféu Brasil de Triathlon (T)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 5, 10, 21, 42km, desafio (21 + 42km) kids <strong>Local:</strong> Rio de Janeiro</p>
+										<p><strong>Distância:</strong> Sprint e Olímpico <strong>Local:</strong> Santos</p>
 									</div>
 								</div>
 							</div>
+
 							<div class="item-date">
 								<img src="images/bandeiras/br.jpg" alt="">
 								<div class="content-date">
-									<h4>22/12<span>Corrida</span></h4>
+									<h4>31/12<span>Corrida</span></h4>
 									<div class="infos-location">
-										<h5>Ironman Brasil - Florianópolis</h5>
+										<h5>São Silvestre (C)</h5>
 										<hr>
-										<p><strong>Distância:</strong> 140.6 milhas <strong>Local:</strong> Florianópolis</p>
+										<p><strong>Distância:</strong> 15km <strong>Local:</strong> São Paulo</p>
 									</div>
 								</div>
 							</div>
 						</div>
+
 					</div>
 				</div>
 			</div>
@@ -687,7 +758,7 @@
 						
 						<div class="row">
 							<div class="w-3 location">
-								<a href="https://maps.goo.gl/">
+								<a href="https://maps.app.goo.gl/8M5nbF9Fo44HjFeZ9">
 									<h5>
 										<i class="fa-solid fa-location-dot"></i>
 										<span>CORRIDA</span>
@@ -697,104 +768,113 @@
 										<strong>São Bernardo do Campo</strong><br>
 										Av. Barão de Mauá<br>
 										(Praça Quinzio Júlio Rossi)<br>
-										<strong>Segunda, Quarta e Sexta-feira </strong><br>
+										---<br>
+										<strong>Segunda, Quarta e Sexta-feira</strong><br>
 										<strong>6:00 às 7:45</strong><br>
 									</p>
 								</a>
 							</div>
+
 							<div class="w-3 location">
-								<a href="https://maps.goo.gl/">
+								<a href="https://maps.app.goo.gl/dc8fMSTpWY8VEAE59">
 									<h5>
 										<i class="fa-solid fa-location-dot"></i>
 										<span>CORRIDA</span>
 									</h5>
 									<p>
-										<strong>Chácara Inglesa</strong><br>
-										<strong>São Bernardo do Campo</strong><br>
-										Av. Barão de Mauá<br>
-										(Praça Quinzio Júlio Rossi)<br>
-										<strong>Segunda, Quarta e Sexta-feira </strong><br>
+										<strong>Parque do Ibirapuera</strong><br>
+										<strong>São Paulo</strong><br>
+										Próximo à loja Centauro<br>
+										Acesso portão 4 (estacionamento da Bienal)<br>
+										---<br>
+										<strong>Segunda, Quarta e Sexta-feira</strong><br>
 										<strong>6:00 às 7:45</strong><br>
+										<strong>Sábado (sazonal): 6:00 à 9:00</strong><br>
 									</p>
 								</a>
 							</div>
+
 							<div class="w-3 location">
-								<a href="https://maps.goo.gl/">
+								<a href="https://maps.app.goo.gl/nrGTYp3dFCtvxqXE7">
 									<h5>
 										<i class="fa-solid fa-location-dot"></i>
-										<span>CORRIDA</span>
+										<span>TRIATHLON</span>
 									</h5>
 									<p>
-										<strong>Chácara Inglesa</strong><br>
-										<strong>São Bernardo do Campo</strong><br>
-										Av. Barão de Mauá<br>
-										(Praça Quinzio Júlio Rossi)<br>
-										<strong>Segunda, Quarta e Sexta-feira </strong><br>
-										<strong>6:00 às 7:45</strong><br>
+										<strong>Ciclovia Marginal Pinheiros</strong><br>
+										<strong>São Paulo</strong><br>
+										Ponto de encontro: Entrada Parque do Povo<br>
+										---<br>
+										<strong>Terça e Quinta-feira</strong><br>
+										<strong>5:30 às 7:00</strong><br>
 									</p>
 								</a>
 							</div>
+
 							<div class="w-3 location">
-								<a href="https://maps.goo.gl/">
+								<a href="https://maps.app.goo.gl/F6hnmC9EBhnFrWuh8">
 									<h5>
 										<i class="fa-solid fa-location-dot"></i>
-										<span>CORRIDA</span>
+										<span>CORRIDA / TRIATHLON</span>
 									</h5>
 									<p>
-										<strong>Chácara Inglesa</strong><br>
+										<strong>Estrada Velha</strong><br>
 										<strong>São Bernardo do Campo</strong><br>
-										Av. Barão de Mauá<br>
-										(Praça Quinzio Júlio Rossi)<br>
-										<strong>Segunda, Quarta e Sexta-feira </strong><br>
-										<strong>6:00 às 7:45</strong><br>
+										Billings Country Club<br>
+										(km 35,5 da Rod. Caminhos do Mar)<br>
+										---<br>
+										<strong>Sábado:</strong><br>
+										<strong>6:00 às 9:00 – Corrida</strong><br>
+										<strong>6:00 às 11:00 – Triathlon (Sazonal)</strong><br>
 									</p>
 								</a>
 							</div>
+
 							<div class="w-3 location">
-								<a href="https://maps.goo.gl/">
+								<a href="https://maps.app.goo.gl/ztncKMUkVhDypXM56">
 									<h5>
 										<i class="fa-solid fa-location-dot"></i>
-										<span>CORRIDA</span>
+										<span>CORRIDA / TRIATHLON</span>
 									</h5>
 									<p>
-										<strong>Chácara Inglesa</strong><br>
-										<strong>São Bernardo do Campo</strong><br>
-										Av. Barão de Mauá<br>
-										(Praça Quinzio Júlio Rossi)<br>
-										<strong>Segunda, Quarta e Sexta-feira </strong><br>
-										<strong>6:00 às 7:45</strong><br>
+										<strong>Cidade Universitária – USP</strong><br>
+										Mizuno Running Station<br>
+										---<br>
+										<strong>Sábado:</strong><br>
+										<strong>6:00 às 9:00 – Corrida</strong><br>
+										<strong>6:00 às 11:00 – Triathlon (Sazonal)</strong><br>
 									</p>
 								</a>
 							</div>
+
 							<div class="w-3 location">
-								<a href="https://maps.goo.gl/">
+								<a href="https://maps.app.goo.gl/KknX9U3iqpqDDMEi8">
 									<h5>
 										<i class="fa-solid fa-location-dot"></i>
 										<span>CORRIDA</span>
 									</h5>
 									<p>
-										<strong>Chácara Inglesa</strong><br>
-										<strong>São Bernardo do Campo</strong><br>
-										Av. Barão de Mauá<br>
-										(Praça Quinzio Júlio Rossi)<br>
-										<strong>Segunda, Quarta e Sexta-feira </strong><br>
-										<strong>6:00 às 7:45</strong><br>
+										<strong>Parnaíba – Piauí</strong><br>
+										Ponto de encontro: Aeroporto Internacional de Parnaíba<br>
+										---<br>
+										<strong>Terça e Quinta</strong><br>
+										<strong>5:30 às 7:30</strong><br>
 									</p>
 								</a>
 							</div>
+
 							<div class="w-3 location">
-								<a href="https://maps.goo.gl/">
+								<a href="https://maps.app.goo.gl/KknX9U3iqpqDDMEi8">
 									<h5>
 										<i class="fa-solid fa-location-dot"></i>
 										<span>CORRIDA</span>
 									</h5>
 									<p>
-										<strong>Chácara Inglesa</strong><br>
-										<strong>São Bernardo do Campo</strong><br>
-										Av. Barão de Mauá<br>
-										(Praça Quinzio Júlio Rossi)<br>
-										<strong>Segunda, Quarta e Sexta-feira </strong><br>
-										<strong>6:00 às 7:45</strong><br>
+										<strong>Parnaíba – Piauí</strong><br>
+										Ponto de encontro: Reabfit<br>
+										---<br>
+										<strong>Sábado</strong><br>
+										<strong>5:00 às 7:30</strong><br>
 									</p>
 								</a>
 							</div>

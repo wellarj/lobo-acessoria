@@ -621,6 +621,7 @@ section#planos h2 span {
 }
 
 button.btn-plans {
+	background: transparent;
     font-size: 31px;
     font-style: italic;
     font-weight: 900;
