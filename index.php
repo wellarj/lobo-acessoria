@@ -5,49 +5,9 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-	  <meta charset="utf-8">
-	  <meta name="viewport" content="width=device-width, initial-scale=1">
-	  <title>Lobo - Bombas e Equipamentos Industriais</title>
-	  <meta name="description" content="Soluções em bombas industriais, dosadoras, medidoras, pneumáticas e centrífugas. Potência e confiabilidade para o seu negócio.">
-	  <link rel="canonical" href="<?= $url; ?>">
-
-	  <!-- Favicon -->
-	  <link rel="icon" href="images/favicon.png" type="image/x-icon">
-
-	  <!-- Open Graph (Facebook, WhatsApp) -->
-	  <meta property="og:type" content="website">
-	  <meta property="og:title" content="Lobo - Bombas Industriais">
-	  <meta property="og:description" content="Bombas dosadoras, pneumáticas e centrífugas para todo o Brasil.">
-	  <meta property="og:image" content="<?= $url; ?>images/og-image.jpg"> 
-	  <meta property="og:url" content="<?= $url; ?>">
-	  <meta property="og:site_name" content="Lobo">
-
-	  <!-- Twitter Card -->
-	  <meta name="twitter:card" content="summary_large_image">
-	  <meta name="twitter:title" content="Lobo - Bombas Industriais">
-	  <meta name="twitter:description" content="Especialistas em soluções de bombeamento industrial.">
-	  <meta name="twitter:image" content="<?= $url; ?>images/og-image.jpg">
-
-	  <!-- Schema.org / JSON-LD -->
-	  <script type="application/ld+json">
-	  {
-	    "@context": "https://schema.org",
-	    "@type": "Organization",
-	    "name": "Lobo",
-	    "url": "<?= $url; ?>",
-	    "logo": "<?= $url; ?>images/logo.webp",
-	    "contactPoint": {
-	      "@type": "ContactPoint",
-	      "telephone": "+55 19 99617-2707",
-	      "contactType": "Customer Service",
-	      "areaServed": "BR"
-	    },
-	    "sameAs": [
-	      "https://www.instagram.com/Lobobombas",
-	      "https://wa.me/5519996172707"
-	    ]
-	  }
-	  </script>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Lobo Assessoria</title>
 	<link rel="stylesheet" href="style.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -58,7 +18,7 @@
 		<nav>
 			<div class="container container-nav">
 				<div class="logo-menu">
-					<a href="#topo" title="Lobo Bombas">
+					<a href="#topo" title="Lobo ">
 						<img loading="lazy" src="images/logo.png" class="logo-full" alt="Lobo">
 						<img loading="lazy" src="images/logo-min.png" class="logo-min" alt="Lobo">
 					</a>
@@ -850,7 +810,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="w-1">
-						<a href="#topo" title="Lobo Bombas">
+						<a href="#topo" title="Lobo">
 							<img loading="lazy" src="images/logo.png" alt="Lobo">
 						</a>
 					</div>
@@ -863,13 +823,13 @@
 							<a href="https://wa.me/5519996172707" target="_blank" title="Whatsapp Lobo">
 								<i class="fab fa-whatsapp"></i>
 							</a>
-							<a href="https://www.instagram.com/bombasLobo/" title="Instagram Lobo" target="_blank">
+							<a href="https://www.instagram.com/Lobo/" title="Instagram Lobo" target="_blank">
 								<i class="fab fa-instagram"></i>
 							</a>
-							<a href="https://www.instagram.com/bombasLobo/" title="Instagram Lobo" target="_blank">
+							<a href="https://www.instagram.com/Lobo/" title="Instagram Lobo" target="_blank">
 								<i class="fab fa-youtube"></i>
 							</a>
-							<a href="https://www.instagram.com/bombasLobo/" title="Instagram Lobo" target="_blank">
+							<a href="https://www.instagram.com/Lobo/" title="Instagram Lobo" target="_blank">
 								<i class="fa-brands fa-strava"></i>
 							</a>
 						</p>
