@@ -977,3 +977,266 @@ button.go-top {
     line-height: 50px;
     font-size: 34px;
 }
+
+@media (max-width: 980px) {
+	.ent-menu-responsivo ul {
+	    display: block;
+	}
+
+	.ent-menu-responsivo {
+	    margin: 0;
+	    width: 100vw;
+	    position: fixed;
+	    left: 0;
+	    top: 0;
+	    background-color: #111;
+	    text-align: center;
+	    padding-top: 20px;
+	    margin-top: -100vh;
+	    transition: margin .2s;
+	}
+
+	.ent-menu-responsivo li {
+	    display: block;
+	}
+
+	.ent-menu-responsivo li::after {
+	    border: 0;
+	    border-bottom: 1px solid #292929;
+	    height: 0;
+	    width: 100%;
+	}
+
+	.ent-menu-responsivo a, .ent-menu-responsivo li span, .social-menu a {
+	    height: auto;
+	    line-height: 47px;
+	    display: inline-block;
+	}
+
+	button.close-menu, button.open-menu {
+	    display: block;
+	    margin: auto;
+	    background-color: #fff;
+	    width: 50px;
+	    height: 50px;
+	    border-radius: 20px;
+	    padding-top: 3px;
+	}
+
+	button.close-menu i, button.open-menu i {
+	    font-size: 15px!important;
+	}
+
+	.container.container-nav {
+	    display: flex;
+	    flex-direction: row;
+	    justify-content: space-between;
+	}
+
+	.social-menu {
+	    display: flex;
+	    align-items: center;
+	}
+
+	.social-menu a {
+	    margin: auto;
+	    margin-right: 24px;
+	    padding-top: 5px;
+	}
+
+	.ent-menu-responsivo.active {
+	    margin: 0;
+	}
+
+	.sobre-header img {
+	    left: -33vh;
+	    height: 70%;
+	    bottom: 0;
+	    top: auto;
+	}
+
+	.content-sobre-header {
+	    width: 20%;
+	    margin-bottom: 150px;
+	}
+
+	h2.title-header {
+	    font-size: 30px;
+	    line-height: 30px;
+	}
+
+	h6.sub-title-header {
+	    width: 150px;
+	    padding: 0;
+	    margin-left: 52%;
+	}
+
+	header::after {
+	    opacity: 0;
+	}
+
+	header .ent-header img {
+	    width: 100%;
+	    object-fit: cover;
+	}
+
+	section#sobre>img {
+	    display: none;
+	}
+
+	.logos-patrocinio {
+	    display: flex;
+	    flex-direction: row;
+	    flex-wrap: wrap;
+	    align-items: center;
+	    justify-content: flex-start;
+	}
+
+	.logos-patrocinio img {
+	    max-height: 54px;
+	}
+
+
+	.container>.row>div {
+	    width: 100%;
+	    grid-column: span 12;
+	}
+
+	section {
+	    padding-top: 40px!important;
+	    padding-bottom: 40px!important;
+	}
+
+	section#proposito h2 *, section.videos-lobo h2 span {
+	    font-size: 22px;
+	}
+
+	section#proposito h2 img, section.videos-lobo h2 img {
+	    height: 40px;
+	    margin: 0;
+	}
+
+	section#proposito span.left-aspas {
+	    top: -60px;
+	}
+
+	button.btn-carrosel-video {
+	    padding: 10px;
+	    font-size: 15px;
+	    width: 49%;
+	}
+
+	.controle-video {
+	    width: 5%;
+	}
+
+	.slick-videos-lobo {
+	    width: 70%;
+	}
+
+	section#planos h2 {
+	    display: flex;
+	    flex-direction: row;
+	    flex-wrap: wrap;
+	}
+
+	section#planos h2 img {
+	    display: block;
+	    margin-bottom: auto;
+	    margin-top: auto;
+	    margin-left: 10%;
+	}
+
+	span.nav-plans {
+	    text-align: center;
+	    margin: auto;
+	}
+
+	.ent-plans.run .w-4 {
+	    grid-column: span 12;
+	    margin-bottom: 40px;
+	}
+
+	.proposito-carrosel img {
+	    width: 40%;
+	    margin: 1%;
+	    display: inline-block;
+	}
+
+	section#provas h2 {
+	    display: flex;
+	    flex-direction: row;
+	    flex-wrap: wrap;
+	    justify-content: center;
+	}
+
+	section#provas h2 span.nav-plans button {
+	    font-size: 19px;
+	    width: auto;
+	    min-width: auto;
+	    display: inline-block;
+	}
+
+	.item-date {
+	    display: block;
+	    text-align: center;
+	}
+
+	.item-date img {
+	    width: 50px;
+	    height: 50px;
+	    min-width: 50px;
+	    border-radius: 100px;
+	}
+
+	.content-date {
+	    display: block;
+	    text-align: center;
+	    padding: 0;
+	    width: 100%;
+	}
+
+	.infos-location {
+	    margin: 0;
+	    text-align: center;
+	}
+
+	section#provas p strong {
+	    margin: 0;
+	}
+
+	section#bora-treinar h2 {
+	    display: block;
+	    text-align: center;
+	}
+
+	section#bora-treinar h2 img {
+	    display: block;
+	    margin: auto;
+	}
+
+	section#bora-treinar h2 span {
+	    display: block;
+	}
+
+	section#bora-treinar h2 i, section#bora-treinar h2 i * {
+	    line-height: 20px!important;
+	    display: block;
+	}
+
+	.w-3.location {
+	    grid-column: span 12;
+	    border: 0;
+	    border-top: 2px solid #b50018;
+	}
+
+	footer h3 {
+	    font-size: 14px;
+	}
+
+	nav.stick {
+	    width: 100%;
+	    left: 0;
+	    right: 0;
+	}
+}
