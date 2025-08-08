@@ -1239,4 +1239,16 @@ button.go-top {
 	    left: 0;
 	    right: 0;
 	}
+
+    header::after {
+        display: none;
+    }
+
+    .ent-plans.triathlon {
+        display: block;
+    }
+
+    .ent-plans.triathlon>div>div {
+        grid-column: span 12;
+    }
 }
